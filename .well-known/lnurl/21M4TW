@@ -4,5 +4,5 @@
 "maxSendable":100000000000,
 "metadata":"[[\"text/plain\",\"\\\"Thank you!\\\"\"]]",
 "commentAllowed":32,
-"tag":"payRequest",
+"tag":"payRequest"
 }
