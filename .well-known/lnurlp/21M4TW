@@ -1,10 +1,1 @@
-{
-"callback":"http://7e73vyzm4pnosrq5pjocfo7zkamgjkazd5wy27nubnaysxosedxn22yd.onion:9876/invoice",
-"minSendable":1000,
-"maxSendable":100000000000,
-"metadata":"[[\"text/plain\",\"\\\"Thank you!\\\"\"]]",
-"commentAllowed":32,
-"tag":"payRequest",
-"nostrPubkey":"79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
-"allowsNostr":true
-}
+
